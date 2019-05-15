@@ -1,0 +1,3 @@
+﻿  aois7.cpp
+c:\3_sem\aois\aois7\aois7\aois7.cpp(36): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  aois7.vcxproj -> C:\3_sem\AOIS\aois7\Debug\aois7.exe

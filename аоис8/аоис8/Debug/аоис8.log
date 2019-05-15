@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  аоис8.cpp
+c:\3_sem\aois\аоис8\аоис8\аоис8.cpp(214): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  аоис8.vcxproj -> C:\3_sem\AOIS\аоис8\Debug\аоис8.exe
